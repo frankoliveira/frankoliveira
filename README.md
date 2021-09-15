@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frankoliveira.
 - 👀 I’m interested in software development. 
-- 🌱 I’m currently learning web development with: HTML, CSS, JavaScript, Node, Ajax, Gulp, JQuery, Bootstrap, React, VueJS and SQL. 
+- 🌱 I’m currently learning web development and Project Management. 
   I'm also learning other skills in my Computer Science degree at UFRRJ.
 - 💞️ I’m looking to collaborate on software development, mobile development, Artificial Inteligence, Machine Learning and Data Science. I like to embrace new chalenges,
   learn and creat new stuff.
