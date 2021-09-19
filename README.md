@@ -1,16 +1,28 @@
-- 👋 Hi, I’m @frankoliveira.
-- 👀 I’m interested in software development. 
-- 🌱 I’m currently learning web development and Project Management. 
-  I'm also learning other skills in my Computer Science degree at UFRRJ.
-- 💞️ I’m looking to collaborate on software development, mobile development, Artificial Inteligence, Machine Learning and Data Science. I like to embrace new chalenges,
-  learn and creat new stuff.
-- 📫 How to reach me: My e-mail is defrankoliver@gmail.com and my LinkedIn is https://www.linkedin.com/in/franklin-anderson-brito-de-oliveira-18b6aa95/
-<div>
-  <a href="github.com/frankoliveira">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=frankoliveira&theme=dark&show_icons=true">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=frankoliveira&theme=dark&show_icons=true"></a>
-</div>
+## 👋 Hi, I’m Franklin Oliveira!
 
 <div>
-  <a href="https://www.linkedin.com/in/franklin-anderson-brito-de-oliveira-18b6aa95/" target="_blank"> <img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+  <a href="github.com/frankoliveira">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=frankoliveira&theme=nightowl&show_icons=true">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankoliveira&layout=compact&langs_count=16&theme=nightowl"></a>
+</div>
+
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="frank-c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="frank-javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="frank-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="frank-cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="frank-java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="frank-html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img align="center" alt="frank-css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="frank-nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="frank-vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+</div>
+
+##
+<div>
+  <a href="mailto:defrankoliver@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/franklin-anderson-brito-de-oliveira-18b6aa95/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/frannkbrito/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
