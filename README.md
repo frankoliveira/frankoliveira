@@ -1,4 +1,10 @@
-## 👋 Hi, I’m Franklin Oliveira!
+## 👋 Bem-vindo, me chamo Franklin Oliveira.
+Estudando Ciência da Computação e atualmente focado em programação web.
+Dentre algumas tecnologias, venho estudado CSS, JavaScript, Node, Ajax, React, entre outros.
+
+Além da Web, tenho interesse em Machine Learning. Também gosto de jogos, academia e finanças. :D
+
+
 
 <div>
   <a href="github.com/frankoliveira">
