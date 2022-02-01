@@ -1,5 +1,5 @@
 ## 👋 Bem-vindo!
-Estudando Ciência da Computação e atualmente focado em programação web.
+Estudo Ciência da Computação e atualmente estou focado em programação web.
 Dentre algumas tecnologias, venho estudado CSS, JavaScript, Node, Ajax, React, entre outros.
 
 Além da Web, tenho interesse em Machine Learning. Também gosto de jogos, academia e finanças. :D
