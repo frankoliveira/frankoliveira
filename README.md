@@ -1,4 +1,4 @@
-## 👋 Bem-vindo, me chamo Franklin Oliveira.
+## 👋 Bem-vindo!
 Estudando Ciência da Computação e atualmente focado em programação web.
 Dentre algumas tecnologias, venho estudado CSS, JavaScript, Node, Ajax, React, entre outros.
 
