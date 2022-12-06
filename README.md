@@ -15,6 +15,7 @@ Além da Web, tenho interesse em Machine Learning. Também gosto de jogos, acade
 
 <div style="display: inline_block"><br>
   <img align="center" alt="frank-c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="frank-csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="frank-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="frank-javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="frank-html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
@@ -22,7 +23,6 @@ Além da Web, tenho interesse em Machine Learning. Também gosto de jogos, acade
   <img align="center" alt="frank-nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="frank-angularjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="frank-vuejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="frank-csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="frank-.net" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="frank-vstudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="frank-vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
